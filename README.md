@@ -2,8 +2,8 @@ DNShijack　DNS劫持 (DNS ハイジャック and 中間者攻撃)
 
 experiment environment:
 VirtualBox:
-two VMs: 1. 192.168.99.100
-         2. 192.168.99.101
+two VMs: a) 192.168.99.100
+         b) 192.168.99.101
 
 set host-only network for two VMs
 
@@ -26,5 +26,9 @@ DNShijack
 4.ARP poisoning
 5. DNS spoof
 
+extra： 基于apache 做一个钓鱼网站， 吸引填写密码 呵呵， 小试牛刀。
 
-Screenshot
+Results:劫持 谷歌网址成功
+![image](https://github.com/pengminjiong/dnshijacktest/blob/master/Screen2.png)
+
+end
