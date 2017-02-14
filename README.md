@@ -36,5 +36,5 @@ Results:劫持 谷歌网址成功
 
 
 
-extra： 基于apache 做一个钓鱼网站， 吸引填写密码 呵呵， 小试牛刀。
+extra： 基于apache 做假的goole钓鱼页面， 吸引用户填写密码，完事。 呵呵， 小试牛刀。 end
 end
