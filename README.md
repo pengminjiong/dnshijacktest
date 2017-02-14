@@ -26,9 +26,14 @@ DNShijack
 4.ARP poisoning
 5. DNS spoof
 
-extra： 基于apache 做一个钓鱼网站， 吸引填写密码 呵呵， 小试牛刀。
+
 
 Results:劫持 谷歌网址成功
 ![image](https://github.com/pengminjiong/dnshijacktest/blob/master/Screen2.png)
 
+
+
+
+
+extra： 基于apache 做一个钓鱼网站， 吸引填写密码 呵呵， 小试牛刀。
 end
