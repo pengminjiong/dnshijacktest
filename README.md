@@ -27,9 +27,9 @@ DNShijack:
 4.ARP poisoning
 5. DNS spoof
 
-
-
 Results:劫持 谷歌网址成功
+
+
 ![image](https://github.com/pengminjiong/dnshijacktest/blob/master/Screen2.png)
 
 
