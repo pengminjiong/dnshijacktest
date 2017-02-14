@@ -9,14 +9,15 @@ set host-only network for two VMs
 
 Tools:  Ettercap and Wireshark:
 
-中間者攻撃
+中間者攻撃:
+
 1.sniff the network interface
 2.scan and get the target host IP
 3. target it
 4.ARP poisoning
 5. capture packets with Wireshark
 
-DNShijack
+DNShijack:
 
 0.edit (/etc/ettercap/etter.nds)
 1.sniff the network interface
