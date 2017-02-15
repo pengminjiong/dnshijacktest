@@ -17,6 +17,10 @@ Tools:  Ettercap +tcpdump+ Wireshark:
 4.ARP poisoning
 5. capture packets with Wireshark
 
+Results:successed
+![image](https://github.com/pengminjiong/dnshijacktest/blob/master/3.png)
+
+
 DNShijack:
 
 0.edit (/etc/ettercap/etter.nds)
