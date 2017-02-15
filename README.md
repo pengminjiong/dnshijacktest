@@ -7,7 +7,7 @@ two VMs: a) 192.168.99.100
 
 set host-only network for two VMs
 
-Tools:  Ettercap and Wireshark:
+Tools:  Ettercap +tcpdump+ Wireshark:
 
 中間者攻撃:
 
